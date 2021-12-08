@@ -1,4 +1,7 @@
 ### Hi there 👋
+A hard working individual who has a passion in the field of Computer
+Science.
+
 ![Profile Views](https://komarev.com/ghpvc/?username=SasinduDilshara&color=brightgreen)
 
 <p align="center">
