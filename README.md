@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/SasinduDilshara">
-   <img src="https://github-profile-trophy.vercel.app/?username=SasinduDilshara&theme=oldie&row=1&column=6&margin-w=15" alt="Sasindu">
+   <img src="https://github-profile-trophy.vercel.app/?username=SasinduDilshara&theme=oldie&row=1&column=6&include_all_commits=true&margin-w=15" alt="Sasindu">
   </a>
   </p>
 
