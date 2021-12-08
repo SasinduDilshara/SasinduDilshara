@@ -1,5 +1,6 @@
 ### Hi there 👋
-A hard working individual who has a passion in the field of Computer
+I am an undergraduate at the Computer Science and Engineering department of the University of Moratuwa.
+I am a hard working individual who has a passion in the field of Computer
 Science.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SasinduDilshara&color=brightgreen)
