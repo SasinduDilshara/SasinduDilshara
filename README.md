@@ -17,4 +17,5 @@ Science.
 <a href="https://github.com/SasinduDilshara">
   <img alt="Top Langs" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SasinduDilshara&include_all_commits=true&langs_count=9&layout=compact&hide=CSS,PHP" />
 </a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SasinduDilshara" alt="SasinduDilshara"/></p> 
 
