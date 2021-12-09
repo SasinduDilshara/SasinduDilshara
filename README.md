@@ -1,7 +1,5 @@
 ### Hi there 👋
-I am an undergraduate at the Computer Science and Engineering department of the University of Moratuwa.
-I am a hard working individual who has a passion in the field of Computer
-Science.
+I am a final-year undergraduate with a passion for computer science and am willing to give my best for the work I do. I am interested in designing and developing mobile and web-based applications as well as working on applications that involve logical thinking. I am seeking an opportunity in the field of computer science.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SasinduDilshara&color=brightgreen)
 
