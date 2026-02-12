@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am an Asociate Technical Lead at WSO2.
+I am an Associate Technical Lead at WSO2.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SasinduDilshara&color=brightgreen)
 
